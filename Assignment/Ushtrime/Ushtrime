@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="viewport" content="width=device-width, initial-scale=1.0">
+        <title>USHTRIME</title>
+    </head>
+    <body>
+        <form action="">
+            <label for="Kerko">Search</label>
+            <input id="Kerko", type="text">
+            <input type="button" value="click">
+        </form>
+    </body>
+</html>
