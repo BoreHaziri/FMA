@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color:rgb(123, 91, 49);
+    color:floralwhite;
+}
+h2{
+    background-color: rgb(177, 142, 96);
+    color: whitesmoke;
+    padding: 15px;
+    margin: 20px;
+}
+p{
+    background-color:rgb(142, 111, 70);
+    color: aliceblue;
+    padding: 5px;
+    margin: 10px;
+}
+.p23{
+    background-color:rgb(208, 174, 122);
+    margin: 30px;
+}
+#p4{
+    font-style:italic ;
+}
