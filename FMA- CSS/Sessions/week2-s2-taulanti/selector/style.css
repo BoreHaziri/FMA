@@ -1,0 +1,72 @@
+#d1:link{
+    color: green;
+}
+#d1:visited{
+    color: rgb(14, 156, 14);
+}
+#d1:hover{
+    color: rgb(41, 205, 41);
+}
+#d1:active{
+    color: rgb(87, 245, 87);
+}
+#d2:link{
+    color: rgb(140, 3, 26);
+}
+#d2:visited{
+    color: rgb(162, 36, 57);
+}
+#d2:hover{
+    color: rgb(201, 74, 95);
+}
+#d2:active{
+    color: pink;
+}
+#d3:link{
+    color: rgb(2, 2, 91);
+}
+#d3:visited{
+    color: rgb(19, 19, 163);
+}
+#d3:hover{
+    color: rgb(54, 54, 218);
+}
+#d3:active{
+    color: rgb(103, 103, 247);
+}
+#d4:link{
+    color: rgba(88, 3, 3, 0.61);
+}
+#d4:visited{
+    color: rgba(129, 8, 8, 0.61);
+}
+#d4:hover{
+    color: rgba(188, 46, 46, 0.61);
+}
+#d4:active{
+    color: rgba(218, 92, 92, 0.61);
+}
+h1{
+    background-color:aquamarine;
+    color: blueviolet;
+}
+#b{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 200px;
+}
+#v{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 120;
+    font-size: 250px;
+}
+#h{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 140;
+    font-size: 300px;
+}
+#bvh{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 160;
+    font-size: 350px;
+}
