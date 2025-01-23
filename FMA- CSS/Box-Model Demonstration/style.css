@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(197, 163, 99);
+}
+p{
+    width: 200px;
+    background-color: rgb(79, 154, 95);
+    padding: 20px;
+    border: 3px solid rgb(139, 132, 70);
+    margin: 50px;
+}
