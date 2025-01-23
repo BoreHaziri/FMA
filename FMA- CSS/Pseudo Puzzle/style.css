@@ -1,0 +1,8 @@
+p:hover::first-letter{
+    font-size: 200px;
+    font-weight: bold;
+    color: blue;
+}
+p:hover{
+    background-color: #7265ff;
+}

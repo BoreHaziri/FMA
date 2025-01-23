@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        li:nth-child(3), li:nth-child(7){
+            font-weight: bold;
+        }
+        li:nth-child(5n+1){
+            color: red;
+        }
+        li:nth-child(even){
+            background-color: green;
+        }
+        li:nth-child(odd){
+            background-color: yellow;
+        }
+        h1{
+            text-align: left;
+        }
+        p{
+            text-transform: capitalize;
+            text-decoration: overline;
+            text-decoration-style: wavy;
+            word-spacing: 20px;
+        }
+        p::first-letter{
+            font-size: 200px;
+        }
+        body{
+            background-image: url(diamond.png);
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li>Elementi 1</li>
+        <li>Elementi 2</li>
+        <li>Elementi 3</li>
+        <li>Elementi 4</li>
+        <li>Elementi 5</li>
+        <li>Elementi 6</li>
+        <li>Elementi 7</li>
+        <li>Elementi 8</li>
+    </ul>
+    <h1>Titulli i pare</h1>
+    <p>Paragrafi i pare ne kete file</p>
+</body>
+</html>
